@@ -13,6 +13,7 @@ function draw()
   }
   else if(keyIsDown(DOWN_ARROW)){
     box.y += 5
+  }
 }
 
 
