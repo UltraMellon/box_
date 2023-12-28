@@ -11,7 +11,7 @@ function draw()
   if(keyIsDown(UP_ARROW)){
     box.y -= 5
   }
-  elsenif(keyIsDown(DOWN_ARROW)){
+  else if(keyIsDown(DOWN_ARROW)){
     box.y += 5
 }
 
